@@ -1,0 +1,9 @@
+# Chiku Mansions
+
+> Chiku Mansions — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/chikumansions/
+
+## Pages
+
+- [Chiku Mansions](https://singaporenewproperty.github.io/chikumansions/): Chiku Mansions property information.
